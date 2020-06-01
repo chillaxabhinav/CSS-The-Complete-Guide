@@ -1,3 +1,11 @@
+* {
+    color : blue;
+}
+
+body {
+    color :  purple;
+}
+
 section{
     background: #ff1b68;
 }
