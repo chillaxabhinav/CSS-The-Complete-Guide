@@ -32,3 +32,46 @@ body {
     background: #2ddf5c;
     padding: 8px 16px;
 }
+
+.main-header > div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main-nav {
+    display: inline-block;
+    text-align: right;
+    width : calc(100% - 74px);
+    vertical-align: middle;
+}
+
+.main-nav__items {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.main-nav__item {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.main-nav__item a{
+    text-decoration: none;
+    color : #0e4f1f;
+}
+
+.main-header__brand {
+    color : #0e4f1f;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.main-nav__item a:hover{
+    color : white;
+}
+
+.main-nav__item a:active{
+    color : white;
+}
