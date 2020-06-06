@@ -70,11 +70,11 @@ body {
     font-size: 22px;
 }
 
-.main-nav__item a:hover,
+/* .main-nav__item a:hover,
 .main-nav__item a:active{
     color : white;
     border-bottom: 5px solid white;
-}
+} */
 
 .main-nav__item--cta a{
     color : white;
@@ -83,9 +83,13 @@ body {
     border-radius : 8px;
 }
 
-.main-nav__item--cta a:hover,
+/* .main-nav__item--cta a:hover,
 .main-nav__item--cta a:active{
     color: #ff1b68;
     background: white;
     border : none;
+} */
+
+ul :hover{
+    color : yellow;
 }
