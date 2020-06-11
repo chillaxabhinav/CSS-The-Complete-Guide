@@ -6,7 +6,8 @@
     background-repeat: no-repeat;
     background-position: left 10% top 20%;
     background-origin: border-box; */
-    background-image: linear-gradient(30deg, red 20%, blue 40%, yellow, 50%, green );
+    /* background-image: linear-gradient(30deg, red 20%, blue 40%, yellow, 50%, green ); */
+    background-image: radial-gradient(circle at 20% 40% ,red, blue);
     width: 100%;
     height: 528px;
     padding: 10px;
