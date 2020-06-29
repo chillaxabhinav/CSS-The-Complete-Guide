@@ -58,6 +58,8 @@ main {
     background: white;
     font-family: "Roboto",sans-serif;
     font-weight: 900;
+    /* text-decoration: line-through; */
+    text-shadow: 5px 5px 7px rgb(182, 182, 182);
 }
 
 .clearfix {
